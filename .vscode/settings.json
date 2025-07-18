@@ -1,0 +1,8 @@
+{
+  "python.testing.pytestArgs": ["Payment"],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.defaultInterpreterPath": "/usr/bin/python3",
+  "python.testing.autoTestDiscoverOnSaveEnabled": true,
+  "editor.semanticHighlighting.enabled": true
+}
